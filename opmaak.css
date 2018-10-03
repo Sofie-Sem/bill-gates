@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+h1,h2,h4,p {
+  color: darkblue;
+}
+
+table {
+  background-color: lightgreen;
+  color: darkblue;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
